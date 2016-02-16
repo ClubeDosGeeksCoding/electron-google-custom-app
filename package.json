@@ -1,0 +1,12 @@
+{
+  "name": "electron-google-custom-app",
+  "version": "1.0.0",
+  "description": "A simple electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
